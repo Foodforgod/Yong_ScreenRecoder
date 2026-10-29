@@ -54,13 +54,19 @@ Recommended method: Use the Live Server extension in VS Code. Right-click index.
 Open in Browser: Navigate to http://localhost:5500 (or whichever port your local server assigns).
 
 📖 Usage Guide
+<img width="1912" height="952" alt="image" src="https://github.com/user-attachments/assets/713898d3-90c3-4aae-83e0-28acd82328ad" />
+
 Select Source: Click Screen Selection to choose whether you want to share your entire screen, a window, or a specific browser tab.
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/de4d77dd-3279-47c4-bc69-b64f33abe6c2" />
 
 Configure Settings: Open the Settings panel to adjust your preferred resolution, frame rate, and audio filters (echo cancellation, noise suppression).
+<img width="1917" height="933" alt="image" src="https://github.com/user-attachments/assets/0bb428d7-86be-4cea-bd7c-08ccb0590ca3" />
 
 Enable Audio & Webcam (Optional): Toggle your microphone or webcam on. If Studio Mode is enabled, your webcam feed will be composited live onto the recording canvas.
+<img width="1887" height="932" alt="image" src="https://github.com/user-attachments/assets/3342fddd-a5a1-4531-9465-c2cf94f68959" />
 
 Record: Click Start Recording. A live timer will indicate your active recording session. You can pause and resume at any time.
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/2ab126ab-1c67-43ef-8a99-b2e69f0eb2ef" />
 
 Stop & Preview: Click Stop Recording. The preview and export panel will appear, allowing you to play back your video, download it locally, capture a snapshot, or save it to your recordings library.
 
